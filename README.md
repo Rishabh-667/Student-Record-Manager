@@ -13,7 +13,7 @@ Functions include: Add, View, Edit, and Delete students.
 
 ## Run Locally
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/Rishabh-667/student-management-system.git
 cd student-management-system
 pip install -r requirements.txt
 python app.py
